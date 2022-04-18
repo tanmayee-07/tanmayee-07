@@ -1,4 +1,4 @@
-### Hi there 👋, this is Tanmayee Choudhury
+
 
 <!--
 **tanmayee-07/tanmayee-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
+  <b>Hi there 👋, this is Tanmayee Choudhury<b> <br>
+  <b>Welcome to my Github Profile!<b> <br>
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 
 
